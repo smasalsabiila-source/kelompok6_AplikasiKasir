@@ -1,5 +1,5 @@
 # kelompok6_AplikasiKasir
-login.php
+### login.php
 <?php
 require 'function.php';
 ?>
@@ -56,7 +56,7 @@ require 'function.php';
     </body>
 </html>
 
-function.php
+### function.php
 <?php
 
 session_start();
@@ -114,7 +114,7 @@ if(isset($_POST['tambahbarang'])){
 ?>
 
 
-masuk.php
+### masuk.php
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -241,7 +241,7 @@ masuk.php
     </body>
 </html>
 
-stock.php
+### stock.php
 <?php
 
 require 'function.php';
